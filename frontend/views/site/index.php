@@ -25,6 +25,7 @@ $asset = IndexAsset::register ( $this );
 						<li><a title="team" href="#about">About</a></li>
 						<li><a title="avocation" href="#avocation">Avocation</a></li>
 						<li><a title="life" href="#life">Life</a></li>
+						<li><a class="no-selected" href="<?php echo Url::to('site/backend')?>">Backend</a></li>
 						<!-- 					<li>
 							<a title="blog" href="#blog">Blog</a>
 						</li>
@@ -56,7 +57,7 @@ $asset = IndexAsset::register ( $this );
 							</li>
 							<li>
 								<p class="home-slide-content">
-									â¤delicious <strong>food</strong>
+									şı¤delicious <strong>food</strong>
 								</p>
 							</li>
 							<li>

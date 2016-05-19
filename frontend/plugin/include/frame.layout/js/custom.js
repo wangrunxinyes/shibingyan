@@ -37,6 +37,9 @@ jQuery(document).ready(function($) {
 	$('#menu-main, .brand').localScroll();
 
 	$('#menu-main li a').click(function() {
+		if($(this).hasClass('no-selected')){
+			return;
+		}
 		var links = $('#menu-main li a');
 		links.removeClass('selected');
 		$(this).addClass('selected');

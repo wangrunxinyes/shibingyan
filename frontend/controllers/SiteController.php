@@ -91,6 +91,10 @@ class SiteController extends BasicController {
 		$this->layout = "empty";
 		return $this->render('code');
 	}
+	
+	public function actionBackend() {
+		$this->redirect(array('backend/web'));
+	}
 
 	/**
 	 * Logs in a user.
