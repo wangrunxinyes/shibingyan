@@ -148,6 +148,11 @@ Total:$5,224<br>
 		$this->layout = "layout_menu";
 		return $this->render('resume');
 	}
+	
+	public function actionImage(){
+		$this->layout = "layout_menu";
+		return $this->render('image');
+	}
 
 	/**
 	 * Displays contact page.

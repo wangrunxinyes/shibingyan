@@ -32,13 +32,11 @@ $asset = ResumeAsset::register ( $this );
 				<h3 class="icon-rabbit">HighLight</h3>
 				<div>
 					<div class="cbp-content">
-						<p>Excellent language talent and computer
-							operation.</p>
+						<p>I have excellent understanding and learning ability. Software engineering education background makes me familiar with the software develop circle and computer operation.</p>
 						<p>
-							<label>Skilled language</label> <br> Excellent listen, speak and
-							write in Mandarin and English. Cantonese in Learning. <br> <label>Interest job</label>
-							<br> HR and instruments.
-							<br> <label>Advantages</label> <br>As a student of software engineering major, I'm familiar with software development and computer.<br>
+							<label>Skilled language</label> <br> In good charge of Mandarin and English. Well spoken English and good English writing. Being able to understand Cantonese. <br> 
+							<label>Interested position</label>
+							<br> Human resource managing, administrative staff.<br><br>
 						</p>
 					</div>
 				</div>
@@ -49,16 +47,16 @@ $asset = ResumeAsset::register ( $this );
 					<div class="cbp-content">
 						<p>
 							<label>The Hong Kong Institute of Education</label> <br>
-							01/09/2015 - 01/06/2016(*Forecast) <br> Public Policy and
-							Governance <br>Master(*Forecast)
+							01/09/2015 - 01/06/2016(*Expected Graduate Date) <br> Public Policy and
+							Governance <br>Master
 						</p> <br><br> <br><br> <br><br><br>
 						<p>
 							<label>Fujian Normal University</label> <br> 01/09/2009
 							-01/06/2013 <br> Software Engineering <br>Bachelor
 						</p> 
 						<p>
-							<label>Fujian Normal University</label> <br> 01/09/2009
-							-01/06/2013 <br> English <br>Bachelor(Double major)
+							<label>Fujian Normal University</label> <br> 01/06/2010
+							-01/07/2013 <br> English <br>Bachelor(Double major)
 						</p>
 					</div>
 				</div>
@@ -68,26 +66,43 @@ $asset = ResumeAsset::register ( $this );
 				<div>
 					<div class="cbp-content">
 						<p>
-							<label>Teacher</label> <br> 2013/12/10 - 2015/6/10
-							<br> Nanyang XX School. <br> Teaching English for junior high school student<br>regular
-							employee
+							<label>Software developer</label> <br> 01/10/2012 - 01/02/2013
+							<br> Fujian Fujitsu Communications Software Co., Ltd. <br> Account-by-Phone Service System developer(Programming Language: C)<br>
+							Intern
+						</p>
+						<br> <br><br> <br><br> <br><br> <br><br> <br><br> <br> <br><br>
+						<p>
+							<label>English Tutor</label> <br> 01/09/2013 - 01/01/2015
+							<br> Nanyang Fifteenth Middle School. <br> Teaching English for junior high school students<br>Regular
+							employee<br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('work'))?>" >click to view scaning copy of proof of employment.</a>
 						</p>
 						<br> <br><br> <br><br> <br><br> <br><br> <br><br> <br>
 					</div>
 				</div>
 			</li>
 			<li id="slide5">
-				<h3 class="icon-platypus">Award</h3>
+				<h3 class="icon-platypus">Award and certificates</h3>
 				<div>
 					<div class="cbp-content">
 						<p>
-							<label>Scholarship</label> <br> Date: 2013/12 Type: Examination
+							<label>Scholarship</label> <br> 2011-2012 Type: Examination
 							<br> Award Class: Third-class award. <br>
 							Awarding Institution: Fujian Normal University. <br><br><br>
 						</p>
 						<p>
-							<label>Outstanding teacher award</label> <br> Date: 2013/12 Type: achievement <br>
-							Awarding Institution: Nanyang XX School. <br> <br> <br>
+							<label>CET-6</label> <br> Date: 09/2014 Type: English certificate
+							<br> score: 507. <br>
+							Awarding Institution: the Ministry of Education of advanced Education Division. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('cet6'))?>">click to view scanning copy of certificate.</a><br> <br>
+						</p>
+						<p>
+							<label>Advanced Teaching Prize</label> <br> Date: 09/2014 Type: Assessment
+							<br> Award Class: Honor certificate. <br>
+							Awarding Institution: Nanyang Fifteenth Middle School. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('teacher'))?>">click to view scanning copy of certificate.</a> <br> <br>
+						</p>
+						<p>
+							<label>Mandarin Level Test Certificate</label> <br> Date: 05/05/2012 Type: Examination
+							<br> Score: 89.5 of 100. <br>
+							Awarding Institution: Language Commission of Fujian Province. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('Mandarin'))?>">click to view scanning copy of certificate.</a> <br> <br>
 						</p>
 					</div>
 				</div>

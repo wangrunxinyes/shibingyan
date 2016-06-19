@@ -58,7 +58,7 @@ $asset = IndexAsset::register ( $this );
 							</li>
 							<li>
 								<p class="home-slide-content">
-									þý¤delicious <strong>food</strong>
+									<strong>Love</strong> elicious <strong>food</strong>
 								</p>
 							</li>
 							<li>
@@ -102,7 +102,7 @@ $asset = IndexAsset::register ( $this );
 						I'm a <strong>energetic</strong> girl
 					</h2>
 					<p>I like travel and sports, especially running and climb. Besides,
-						as a girl of software engineerning major, I familiar with computer
+						as a girl of software engineerning major, I'm familiar with computer
 						and love to play computer game.</p>
 					<a href="<?php echo Url::to("site/resume")?>" data-filter="*"
 						class="btn btn-theme pull-left">Resume and more </a>
