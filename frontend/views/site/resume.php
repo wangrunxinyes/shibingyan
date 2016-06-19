@@ -74,7 +74,7 @@ $asset = ResumeAsset::register ( $this );
 						<p>
 							<label>English Tutor</label> <br> 01/09/2013 - 01/01/2015
 							<br> Nanyang Fifteenth Middle School. <br> Teaching English for junior high school students<br>Regular
-							employee<br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('work'))?>" >click to view scaning copy of proof of employment.</a>
+							employee<br><a style="color:gray" target="_blank" href="<?php echo Url::to('image?data='.md5('work'))?>" >click to view scaning copy of proof of employment.</a>
 						</p>
 						<br> <br><br> <br><br> <br><br> <br><br> <br><br> <br>
 					</div>
@@ -92,17 +92,17 @@ $asset = ResumeAsset::register ( $this );
 						<p>
 							<label>CET-6</label> <br> Date: 09/2014 Type: English certificate
 							<br> score: 507. <br>
-							Awarding Institution: the Ministry of Education of advanced Education Division. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('cet6'))?>">click to view scanning copy of certificate.</a><br> <br>
+							Awarding Institution: the Ministry of Education of advanced Education Division. <br><a style="color:gray" target="_blank" href="<?php echo Url::to('image?data='.md5('cet6'))?>">click to view scanning copy of certificate.</a><br> <br>
 						</p>
 						<p>
 							<label>Advanced Teaching Prize</label> <br> Date: 09/2014 Type: Assessment
 							<br> Award Class: Honor certificate. <br>
-							Awarding Institution: Nanyang Fifteenth Middle School. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('teacher'))?>">click to view scanning copy of certificate.</a> <br> <br>
+							Awarding Institution: Nanyang Fifteenth Middle School. <br><a style="color:gray" target="_blank" href="<?php echo Url::to('image?data='.md5('teacher'))?>">click to view scanning copy of certificate.</a> <br> <br>
 						</p>
 						<p>
 							<label>Mandarin Level Test Certificate</label> <br> Date: 05/05/2012 Type: Examination
 							<br> Score: 89.5 of 100. <br>
-							Awarding Institution: Language Commission of Fujian Province. <br><a style="color:gray" target="blank" href="<?php echo Url::to('image?data='.md5('Mandarin'))?>">click to view scanning copy of certificate.</a> <br> <br>
+							Awarding Institution: Language Commission of Fujian Province. <br><a style="color:gray" target="_blank" href="<?php echo Url::to('image?data='.md5('Mandarin'))?>">click to view scanning copy of certificate.</a> <br> <br>
 						</p>
 					</div>
 				</div>
