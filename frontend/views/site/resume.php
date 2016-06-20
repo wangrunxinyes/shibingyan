@@ -81,7 +81,7 @@ $asset = ResumeAsset::register ( $this );
 				</div>
 			</li>
 			<li id="slide5">
-				<h3 class="icon-platypus">Award and certificates</h3>
+				<h3 class="icon-platypus">Award</h3>
 				<div>
 					<div class="cbp-content">
 						<p>
