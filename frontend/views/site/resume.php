@@ -19,8 +19,11 @@ $asset = ResumeAsset::register ( $this );
 						</p>
 						<p>
 							SHI Bingyan <br> Birthday: 1990/11/13 <br> Email:
-							shibingyan@shibingyan.com <br> Phone: (852)68163965 <br>
-							<br>
+							job@shibingyan.com <br> Phone: (852)68163965 <br>
+							Hometown: Shang Hai, China
+							<br>Avaliable Date: Immediately.
+							<br>Visa: 1 year IANG working visa, expired at 25/07/2017. 
+							<br> <a style="color:gray" target="_blank" href="http://www.immd.gov.hk/eng/services/visas/IANG.html">[IANG reference]</a>
 							<br> <a style="color: gray; display: none"
 								href="<?php //echo Yii::app()->assets->getScirptPath('documents/cv.pdf');?>">click
 								to download my resume.</a> <br>
@@ -47,7 +50,7 @@ $asset = ResumeAsset::register ( $this );
 					<div class="cbp-content">
 						<p>
 							<label>The Hong Kong Institute of Education</label> <br>
-							01/09/2015 - 01/06/2016(*Expected Graduate Date) <br> Public Policy and
+							01/09/2015 - 06/07/2016 <br> Public Policy and
 							Governance <br>Master
 						</p> <br><br> <br><br> <br><br><br>
 						<p>
