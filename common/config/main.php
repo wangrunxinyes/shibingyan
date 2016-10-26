@@ -56,7 +56,7 @@ return [
 				],
 				'db' => [ 
 						'class' => '\yii\db\Connection',
-						'dsn' => 'mysql:host=31.220.110.2;dbname=u498749435_prod',
+						'dsn' => 'mysql:host=mysql.hostinger.com.hk;dbname=u498749435_prod',
 						'username' => 'u498749435_wrx',
 						'password' => 'wrx52691',
 						'charset' => 'utf8' 

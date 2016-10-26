@@ -29,7 +29,7 @@ return [
 				],
 				'db' => [
 						'class' => '\yii\db\Connection',
-						'dsn' => 'mysql:host=31.220.110.2;dbname=u502190727_sby',
+						'dsn' => 'mysql:host=mysql.hostinger.com.hk;dbname=u502190727_sby',
 						'username' => 'u502190727_sby',
 						'password' => 'wrx52sby',
 						'charset' => 'utf8'
