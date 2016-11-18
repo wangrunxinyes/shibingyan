@@ -242,4 +242,8 @@ Total:$5,224<br>
 			'model' => $model,
 		]);
 	}
+	
+	public function actionFile(){
+		return $this->render("file", array("controller"=>$this));
+	}
 }
